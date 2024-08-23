@@ -44,7 +44,7 @@ This project is a basic implementation of a remote keylogger. It is designed to 
    ```
 2. Run the keylogger:
    ```bash
-   python keylogger.py
+   python keylogger_pyv1.py
    ```
 
 ## Acknowledgements
