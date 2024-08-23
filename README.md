@@ -47,14 +47,6 @@ This project is a basic implementation of a remote keylogger. It is designed to 
    python keylogger.py
    ```
 
-## Legal & Ethical Disclaimer
-
-This software is provided for educational purposes only. The author is not responsible for any misuse of this software. Please ensure you have permission from the owner of the system before deploying this keylogger. Unauthorized access to computer systems and data is illegal and punishable by law.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - Thanks to the open-source community for the libraries and tools that made this project possible.
