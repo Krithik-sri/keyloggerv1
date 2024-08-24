@@ -46,6 +46,7 @@ This project is a basic implementation of a remote keylogger. It is designed to 
    ```bash
    python keylogger_pyv1.py
    ```
+3. Optional - Turn it into a executable using libraries like auto-py-to-exe to run it on any system without dependency conflicts. PS: this is a POC for educational purposes only and it is illegal and should not be used without the permission and knowledge of the device owner.
 
 ## Acknowledgements
 
